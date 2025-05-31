@@ -18,8 +18,6 @@ This project is a basic secure network setup designed using Cisco Packet Tracer.
 
 ![Network Diagram](https://github.com/user-attachments/assets/0d4111af-8b41-4c5b-bbc2-d48016342625)
 
-More screenshots in the `/Screenshots` folder.
-
 ## 🧪 Features & Configs
 
 - Internet simulated using Cloud-PT
