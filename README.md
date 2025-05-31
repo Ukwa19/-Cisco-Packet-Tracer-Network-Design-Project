@@ -28,7 +28,8 @@ This project is a basic secure network setup designed using Cisco Packet Tracer.
 
 ## 📄 Report
 
-See `([Network Design Report.pdf](https://github.com/user-attachments/files/20536061/Network.Design.Report.pdf))` for full documentation and reflection.
+See `(Network Design Report.pdf)` for full documentation and reflection.
+[Network Design Report.pdf](https://github.com/user-attachments/files/20536061/Network.Design.Report.pdf)
 
 ## ✍️ Author
 
